@@ -8,7 +8,7 @@ body {
     min-height: 100vh;
     padding: 1rem;
     font-family: sans-serif;
-    background-color: black;
+    background-color: rgb(235, 223, 203);
 }
 
 .top-section {
@@ -66,9 +66,17 @@ h2 {
 }
 
 .guess-section input {
-    height: 25px;
-    width: 180px;
-    border-radius: 5px;
+    width: 15%;
+    height: 20px;
+    background: transparent;
+    background-color: rgb(206, 186, 163);
+    border: none;
+    outline: none;
+    border: 2px solid rgba(255, 255, 255, .2);
+    border-radius: 40px;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px 45px 20px 20px;
 }
 
 .guess-section button {
@@ -93,5 +101,43 @@ h2 {
     width: 25px;
     height: 30px;
     border-radius: 5px;
-    background-color: gray;
+    background-color: rgb(175, 159, 134);
+}
+
+
+.guess-section button {
+  background-color: #fbeee0;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: #422800;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 5 18px;
+  line-height: 20px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 120px;
+  height: 30px;
+}
+
+.button-74:hover {
+  background-color: #fff;
+}
+
+.button-74:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+@media (min-width: 768px) {
+  .button-74 {
+    min-width: 120px;
+    padding: 0 25px;
+  }
 }
