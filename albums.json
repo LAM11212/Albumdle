@@ -1,0 +1,151 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "the college dropout",
+      "artist": "kanye west",
+      "song": "./songs/all_falls_down.mp3",
+      "src": "./albums/the_college_dropout.jpg"
+    },
+    {
+      "id": 2,
+      "title": "my beautiful dark twisted fantasy",
+      "artist": "kanye west",
+      "song": "./songs/power.mp3",
+      "src": "./albums/mbdtf.jpg"
+    },
+    {
+      "id": 3,
+      "title": "to pimp a butterfly",
+      "artist": "kendrick lamar",
+      "song": "./songs/alright.mp3",
+      "src": "./albums/tpab.jpg"
+    },
+    {
+      "id": 4,
+      "title": "the queen is dead",
+      "artist": "the smiths",
+      "song": "./songs/light.mp3",
+      "src": "./albums/tqid.jpg"
+    },
+    {
+      "id": 5,
+      "title": "the dark side of the moon",
+      "artist": "pink floyd",
+      "song": "./songs/money.mp3",
+      "src": "./albums/tdsotm.jpg"
+    },
+    {
+      "id": 6,
+      "title": "cant buy a thrill",
+      "artist": "steely dan",
+      "song": "./songs/dia.mp3",
+      "src": "./albums/cbat.jpg"
+    },
+    {
+      "id": 7,
+      "title": "kid a",
+      "artist": "radiohead",
+      "song": "./songs/eiirp.mp3",
+      "src": "./albums/kid_a.jpg"
+    },
+    {
+      "id": 8,
+      "title": "in rainbows",
+      "artist": "radiohead",
+      "song": "./songs/jigsaw.mp3",
+      "src": "./albums/in_rainbows.jpg"
+    },
+    {
+      "id": 9,
+      "title": "pablo honey",
+      "artist": "radiohead",
+      "song": "./songs/creep.mp3",
+      "src": "./albums/pablo_honey.jpg"
+    },
+    {
+      "id": 10,
+      "title": "heavy metal",
+      "artist": "cameron winter",
+      "song": "./songs/love_takes_miles.mp3",
+      "src": "./albums/heavy_metal.jpg"
+    },
+    {
+      "id": 11,
+      "title": "getting killed",
+      "artist": "geese",
+      "song": "./songs/cobra.mp3",
+      "src": "./albums/getting_killed.jpg"
+    },
+    {
+      "id": 12,
+      "title": "3d country",
+      "artist": "geese",
+      "song": "./songs/crusades.mp3",
+      "src": "./albums/3d_country.jpg"
+    },
+    {
+        "id": 13,
+        "title": "ok computer",
+        "artist": "radiohead",
+        "song": "./songs/no_surprises.mp3",
+        "src": "./albums/ok_computer.jpg"
+    },
+    {
+        "id": 14,
+        "title": "graduation",
+        "artist": "kanye west",
+        "song": "./songs/homecoming.mp3",
+        "src": "./albums/graduation.jpg"
+    },
+    {
+        "id": 15,
+        "title": "ants from up there",
+        "artist": "black country new road",
+        "song": "./songs/basketball_shoes.mp3",
+        "src": "./albums/afut.jpg"
+    },
+    {
+        "id": 16,
+        "title": "american football",
+        "artist": "american football",
+        "song": "./songs/never_meant.mp3",
+        "src": "./albums/af.jpg"
+    },
+    {
+        "id": 17,
+        "title": "in the court of the crimson king",
+        "artist": "king crimson",
+        "song": "./songs/epitaph.mp3",
+        "src": "./albums/crimson.jpg"
+    },
+    {
+        "id": 18,
+        "title": "currents",
+        "artist": "tame impala (just one guy)",
+        "song": "./songs/impala.mp3",
+        "src": "./albums/currents.jpg"
+    },
+    {
+        "id": 19,
+        "title": "heaven or las vegas",
+        "artist": "cocteau twins",
+        "song": "./songs/coc.mp3",
+        "src": "./albums/holv.jpg"
+    },
+    {
+        "id": 20,
+        "title": "the black parade",
+        "artist": "my chemical romance",
+        "song": "./songs/g.mp3",
+        "src": "./albums/tbp.jpg"
+    },
+    {
+        "id": 15,
+        "title": "the devil and god are raging inside me",
+        "artist": "brand new",
+        "song": "./songs/limousine.mp3",
+        "src": "./albums/tdagarim.jpg"
+    }
+  ]
+}

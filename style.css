@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    padding: 1rem;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.top-section {
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: clamp(0.9rem)
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.main-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 0.75rem;
+    }
+
+    .guess-section {
+        margin-top: 1rem;
+    }
+
+    #posterCanvas {
+        width: 80vw;
+    }
+}
+
+#posterCanvas {
+    width: min(300px, 90vw);
+    height: auto;
+    aspect-ratio: 2 / 3;
+    display: block;
+}
+
+.guess-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    gap: 10px;
+}
+
+.guess-section input {
+    height: 25px;
+    width: 180px;
+    border-radius: 5px;
+}
+
+.guess-section button {
+    display: block;
+    visibility: hidden;
+}
+
+.box-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-top: 5px;
+}
+
+.box-section button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 25px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: gray;
+}

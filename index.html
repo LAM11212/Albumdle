@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Posterdle</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <div class="top-section">
+        <h1>Welcome to Albumdle!</h1>
+        <h2>The object of the game is to guess the album cover as it becomes less and less pixelated</h2>
+        <h2>You get 5 guesses, and a hint at guess 3, good luck!</h2>
+    </div>
+    <div class="main-section">
+        <canvas id="posterCanvas" width="300" height="500"></canvas>
+    </div>
+
+    <div class="guess-section">
+        <input type="text" id="guess" placeholder="Guess an album. . .">
+        <button id="next">Next</button>
+        <button id="play-song">Hint</button>
+    </div>
+
+    <div class="box-section">
+        <button id="1">1</button>
+        <button id="2">2</button>
+        <button id="3">3</button>
+        <button id="4">4</button>
+        <button id="5">5</button>
+    </div>
+</body>
+
+</html>
