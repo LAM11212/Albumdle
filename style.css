@@ -52,7 +52,7 @@ h2 {
 }
 
 .guess-section input {
-    width: 15%;
+    width: 210px;
     height: 20px;
     background: transparent;
     background-color: rgb(206, 186, 163);
