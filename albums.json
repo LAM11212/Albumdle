@@ -141,11 +141,75 @@
         "src": "./albums/tbp.jpg"
     },
     {
-        "id": 15,
+        "id": 21,
         "title": "the devil and god are raging inside me",
         "artist": "brand new",
         "song": "./songs/limousine.mp3",
         "src": "./albums/tdagarim.jpg"
+    },
+    {
+        "id": 22,
+        "title": "how it feels to be something on",
+        "artist": "sunny day real estate",
+        "song": "./songs/pillars.mp3",
+        "src": "./albums/how_it_feels.jpg"
+    },
+    {
+        "id": 23,
+        "title": "uwaga! jedzie tramwaj",
+        "artist": "lenny valentino",
+        "song": "./songs/uwaga.mp3",
+        "src": "./albums/tramwaj.jpg"
+    },
+    {
+        "id": 24,
+        "title": "spiderland",
+        "artist": "brand new",
+        "song": "./songs/washer.mp3",
+        "src": "./albums/spiderland.jpg"
+    },
+    {
+        "id": 25,
+        "title": "imaginal disk",
+        "artist": "magdalena bay",
+        "song": "./songs/bay.mp3",
+        "src": "./albums/imaginal.jpg"
+    },
+    {
+        "id": 26,
+        "title": "hellfire",
+        "artist": "black midi",
+        "song": "./songs/hell.mp3",
+        "src": "./albums/hellfire.jpg"
+    },
+    {
+        "id": 27,
+        "title": "loveless",
+        "artist": "my bloody valentine",
+        "song": "./songs/when_you_sleep.mp3",
+        "src": "./albums/loveless.jpg"
+    },
+    {
+        "id": 28,
+        "title": "lift your skinny fists like antennas to heaven",
+        "artist": "godspeed you! black emperor",
+        "song": "./songs/storm.mp3",
+        "src": "./albums/skinny.jpg"
+    },
+    {
+        "id": 29,
+        "title": "for lovers",
+        "artist": "lamp",
+        "song": "./songs/25.mp3",
+        "src": "./albums/lovers.jpg"
+    },
+    {
+        "id": 30,
+        "title": "you're gonna miss it all",
+        "artist": "modern baseball",
+        "song": "./songs/two_good_things.mp3",
+        "src": "./albums/miss.jpg"
     }
+    
   ]
 }
